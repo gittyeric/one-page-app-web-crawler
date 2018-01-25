@@ -7,7 +7,7 @@ Minimalistic example of crawling any kind of web page, including a dynamic one p
 
 2. Now either download this project or clone with git:
 
-  git clone https://github.com/gittyeric/one-page-app-web-crawler.git
+	git clone https://github.com/gittyeric/one-page-app-web-crawler.git
   
 3. Last step!  Download the Selenium [web driver for chrome](https://sites.google.com/a/chromium.org/chromedriver/downloads) (you can use Firefox too but you'll have to change the code a bit).  This will allow you to control your browser with Python code.
 
