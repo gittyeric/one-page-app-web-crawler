@@ -3,13 +3,13 @@ Minimalistic example of crawling any kind of web page, including a dynamic one p
 
 ##Setup
 
-1. You'll need to have (Python 3)["https://www.python.org/downloads/"] installed on your system.
+1. You'll need to have [Python 3]("https://www.python.org/downloads/") installed on your system.
 
 2. Now either download this project or clone with git:
 
   git clone xxx
   
-3. Last step!  Download the Selenium (web driver for chrome)["https://sites.google.com/a/chromium.org/chromedriver/downloads"] (you can use Firefox too but you'll have to change the code a bit).  This will allow you to control your browser with Python code.
+3. Last step!  Download the Selenium [web driver for chrome]("https://sites.google.com/a/chromium.org/chromedriver/downloads") (you can use Firefox too but you'll have to change the code a bit).  This will allow you to control your browser with Python code.
 
 4. Drop the downloaded web driver file into the root of this project.
 
