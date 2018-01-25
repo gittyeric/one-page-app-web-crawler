@@ -20,6 +20,7 @@ Minimalistic example of crawling any kind of web page, including a dynamic one p
 Now simply run the python script from command line:
 
   cd path/to/project
+  
   python clark_crawl.py
   
 ## Clark what?
