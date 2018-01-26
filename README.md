@@ -3,7 +3,7 @@ Minimalistic example of crawling any kind of web page, including a dynamic one p
 
 ## Setup
 
-1. You'll need to have [Python 3](https://www.python.org/downloads/) installed on your system.
+1. You'll need to have [Python 3](https://www.python.org/downloads/) installed on your system.  Be sure to check "Add Python environment variables" if asked during installation.
 
 2. Now either download this project or clone with git:
 
@@ -13,9 +13,11 @@ Minimalistic example of crawling any kind of web page, including a dynamic one p
 
 4. Drop the downloaded web driver file into the root of this project.
 
-5. (Optional) Download [Pycharm Community Edition](https://www.jetbrains.com/pycharm/download) for easier code editing and running
+5. From command line, install the selenium library for Python:
 
-## Running (Command Line)
+	pip install selenium
+
+## Running
 
 Now simply run the python script from command line:
 
